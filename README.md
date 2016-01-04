@@ -1,4 +1,4 @@
-== Building rust on archlinux
+# Building rust on archlinux
 
 This is a quick docker container description for building the
 latest version of the rust programming language on the Arch
